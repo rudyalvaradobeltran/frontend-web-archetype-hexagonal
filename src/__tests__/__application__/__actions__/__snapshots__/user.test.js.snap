@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Actions Reducer: Should the reducer returns the initialState 1`] = `
+Object {
+  "errorFetchingUsers": false,
+  "errorMsgFetchingUsers": "",
+  "users": Array [],
+}
+`;

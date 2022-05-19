@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AVATAR USER Should render correctly (snapshot) with default props 1`] = `
+<div
+  className="sc-gsDJrp hjRpwD"
+/>
+`;
+
+exports[`AVATAR USER Should renders correctly (snapshot) whit  props 1`] = `
+<div
+  className="sc-gsDJrp hjRpwD"
+/>
+`;
+
+exports[`HOME TEMPLATE Should render correctly (snapshot) with default props 1`] = `
+<div
+  className="sc-gsDJrp hjRpwD"
+/>
+`;
+
+exports[`HOME TEMPLATE Should renders correctly (snapshot) whit  props 1`] = `
+<div
+  className="sc-gsDJrp hjRpwD"
+>
+  <div
+    className="sc-dkPtyc jnbgDF"
+  >
+    <div
+      className="sc-bdvvaa bBZNia"
+    >
+      <img
+        alt="avatar_img "
+        src="https://miro.medium.com/max/360/1*W35QUSvGpcLuxPo3SRTH4w.png"
+      />
+      <p>
+        Jhon Doe
+      </p>
+      <p>
+        8875547
+      </p>
+    </div>
+  </div>
+</div>
+`;

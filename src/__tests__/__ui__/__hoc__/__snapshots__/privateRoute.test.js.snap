@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrivateRouter Should renders correctly (Snapshot) 1`] = `null`;
+
+exports[`PrivateRouter Should renders correctly (Snapshot) children when token is present in localStorage 1`] = `
+<div>
+  home
+</div>
+`;
+
+exports[`PrivateRouter Should renders correctly (Snapshot) with icons 1`] = `null`;
